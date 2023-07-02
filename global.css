@@ -1,4 +1,10 @@
-#banner, #action a{
+h1, h2{
+  font-family: 'Nunito', sans-serif;
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+}
+#action a{
   -webkit-transition: all 250ms ease-out;
   -ms-transition: all 250ms ease-out;
   transition: all 250ms ease-out;
@@ -8,3 +14,31 @@
   border-radius: 30px;
   background-color: #4392F1;
 }
+h1 {
+  font-size: 110px;
+}
+h2 {
+  font-size: 30px;
+}
+body{
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  padding: 0;
+  font-size: 15px;
+  background-color: white;
+  color: #333;
+}
+.spacer.v20{
+  height: 20px;
+}
+.spacer.v40{
+  height: 40px;
+}
+.spacer.v80{
+  height: 80px;
+}
+.clear{
+  clear:both;
+}
+
+

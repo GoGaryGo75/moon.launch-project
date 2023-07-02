@@ -1,0 +1,10 @@
+#banner, #action a{
+  -webkit-transition: all 250ms ease-out;
+  -ms-transition: all 250ms ease-out;
+  transition: all 250ms ease-out;
+  padding: 20px;
+  color: white;
+  text-decoration: none;
+  border-radius: 30px;
+  background-color: #4392F1;
+}
